@@ -22,6 +22,7 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 ![image](https://github.com/user-attachments/assets/c744307e-d49c-4a59-a1e4-00927ea7923b)
  
 ## Program
+
 NAME-POOJA PRIYA.B
 
 REG NO-24001090
